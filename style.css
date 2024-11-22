@@ -1,3 +1,14 @@
 body{
     font-family: "Sevillana", cursive;
+    background: rgb(159, 4, 4);
+    color: black;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
